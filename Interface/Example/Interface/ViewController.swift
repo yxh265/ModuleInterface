@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Interface
 //
-//  Created by 余旭洪 on 11/05/2021.
-//  Copyright (c) 2021 余旭洪. All rights reserved.
+//  Created by yxh265 on 11/05/2021.
+//  Copyright (c) 2021 yxh265. All rights reserved.
 //
 
 import UIKit

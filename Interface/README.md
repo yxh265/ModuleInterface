@@ -1,6 +1,6 @@
 # Interface
 
-[![CI Status](https://img.shields.io/travis/余旭洪/Interface.svg?style=flat)](https://travis-ci.org/余旭洪/Interface)
+[![CI Status](https://img.shields.io/travis/yxh265/Interface.svg?style=flat)](https://travis-ci.org/yxh265/Interface)
 [![Version](https://img.shields.io/cocoapods/v/Interface.svg?style=flat)](https://cocoapods.org/pods/Interface)
 [![License](https://img.shields.io/cocoapods/l/Interface.svg?style=flat)](https://cocoapods.org/pods/Interface)
 [![Platform](https://img.shields.io/cocoapods/p/Interface.svg?style=flat)](https://cocoapods.org/pods/Interface)
@@ -22,7 +22,7 @@ pod 'Interface'
 
 ## Author
 
-余旭洪, yuxuhong@ad61v1.com
+  yxh265, yuxuhong@ad61v1.com
 
 ## License
 

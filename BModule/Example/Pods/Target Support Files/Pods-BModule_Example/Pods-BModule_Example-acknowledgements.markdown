@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## BModule
 
-Copyright (c) 2021 余旭洪 <yuxuhong@ad61v1.com>
+Copyright (c) 2021 yxh265 <yuxuhong@ad61v1.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -26,7 +26,7 @@ THE SOFTWARE.
 
 ## Interface
 
-Copyright (c) 2021 余旭洪 <yuxuhong@ad61v1.com>
+Copyright (c) 2021 yxh265 <yuxuhong@ad61v1.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,6 +1,6 @@
 # AModule
 
-[![CI Status](https://img.shields.io/travis/余旭洪/AModule.svg?style=flat)](https://travis-ci.org/余旭洪/AModule)
+[![CI Status](https://img.shields.io/travis/yxh265/AModule.svg?style=flat)](https://travis-ci.org/yxh265/AModule)
 [![Version](https://img.shields.io/cocoapods/v/AModule.svg?style=flat)](https://cocoapods.org/pods/AModule)
 [![License](https://img.shields.io/cocoapods/l/AModule.svg?style=flat)](https://cocoapods.org/pods/AModule)
 [![Platform](https://img.shields.io/cocoapods/p/AModule.svg?style=flat)](https://cocoapods.org/pods/AModule)
@@ -22,7 +22,7 @@ pod 'AModule'
 
 ## Author
 
-余旭洪, yuxuhong@ad61v1.com
+  yxh265, yuxuhong@ad61v1.com
 
 ## License
 
