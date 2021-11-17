@@ -86,7 +86,7 @@ let a = ModuleInterface.shared.getBModuleValue(b: "a call b") { value in
 
 整个代码实现非常简单。
 
-具体pod的代码如下：
+具体pod的代码如下： 
 ```Swift
 A模块的podspec的定义
 s.dependency 'Interface'
