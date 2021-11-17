@@ -1,0 +1,11 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'Demo' do
+  pod 'AModule', :path => '../AModule'
+  pod 'BModule', :path => '../BModule'
+  pod 'Interface', :path => '../Interface'
+
+  
+end

@@ -1,0 +1,16 @@
+PODS:
+  - Interface (0.1.0)
+
+DEPENDENCIES:
+  - Interface (from `../`)
+
+EXTERNAL SOURCES:
+  Interface:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Interface: 92712dca96e176d8abcfe670ca5dadf59e1cf4a8
+
+PODFILE CHECKSUM: 26bfe2b0d5a55a68bec0ed8fd0df9f135c343fd3
+
+COCOAPODS: 1.9.3

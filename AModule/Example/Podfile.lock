@@ -1,0 +1,22 @@
+PODS:
+  - AModule (0.1.0):
+    - Interface
+  - Interface (0.1.0)
+
+DEPENDENCIES:
+  - AModule (from `../`)
+  - Interface (from `../../Interface`)
+
+EXTERNAL SOURCES:
+  AModule:
+    :path: "../"
+  Interface:
+    :path: "../../Interface"
+
+SPEC CHECKSUMS:
+  AModule: 9b4a11ad947b96502aae86257299aeadd5840699
+  Interface: 92712dca96e176d8abcfe670ca5dadf59e1cf4a8
+
+PODFILE CHECKSUM: 3ae28d9e8b98734a3c3b050f1e942cb59159ee27
+
+COCOAPODS: 1.9.3

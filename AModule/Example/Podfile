@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'AModule_Example' do
+  pod 'AModule', :path => '../'
+  pod 'Interface', :path => '../../Interface'
+ 
+end
